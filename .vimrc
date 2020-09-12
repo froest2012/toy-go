@@ -1,0 +1,34 @@
+syntax on
+set showmode
+set showcmd
+set encoding=utf-8 
+set t_Co=256
+filetype indent on
+set autoindent
+set tabstop=2
+set shiftwidth=4
+set expandtab
+set softtabstop=4
+set number
+set relativenumber
+set cursorline
+set textwidth=120
+set wrap
+set linebreak
+set wrapmargin=2
+set scrolloff=10
+set sidescrolloff=15
+set laststatus=2
+set  ruler
+set showmatch
+set hlsearch
+set ignorecase
+set spell spelllang=en_us
+set undofile
+set autochdir
+set noerrorbells
+set visualbell
+set history=10000
+set autoread
+set wildmenu
+set wildmode=longest:list,full
